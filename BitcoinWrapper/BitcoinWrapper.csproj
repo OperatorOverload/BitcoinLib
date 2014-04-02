@@ -86,6 +86,7 @@
     <Compile Include="RPC\JsonRpcResponse.cs" />
     <Compile Include="RPC\RpcConnector.cs" />
     <Compile Include="Services\IBitcoinService.cs" />
+    <Compile Include="Services\RpcExtenderService-RawTransactions.cs" />
     <Compile Include="Services\RpcService.cs" />
     <Compile Include="Services\RpcExtenderService.cs" />
     <Compile Include="Services\IRpcService.cs" />
